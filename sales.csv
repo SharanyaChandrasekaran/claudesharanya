@@ -1,0 +1,3 @@
+transaction_id, line_item_id, store_id, customer_id, product_id,transaction_timestamp,quantity,unit_price,total_amount,payment_method
+TX001,LI001,1000,C001,001,20206-04-05,250,100,250000,CASH
+TX002,LI001,1000,C001,002,20206-04-05,100,100,100000,CREDIT
